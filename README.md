@@ -33,3 +33,6 @@ Ex: http://your-website/konnektive-api-doc
 
 Ex: http://localhost:8000/konnektive-api-doc
 ```
+
+
+<a href="https://apidocs.konnektive.com/">https://apidocs.konnektive.com/</a>
